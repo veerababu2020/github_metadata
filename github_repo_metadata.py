@@ -28,7 +28,7 @@ import requests
 # CONFIG — edit these
 # ---------------------------------------------------------------------------
 
-PAT_TOKEN = "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"          # GitHub PAT — classic needs 'repo' or 'public_repo' scope
+PAT_TOKEN = "ghp_hKaOrIxihW3kShYBEdDteUs************6FT"          # GitHub PAT — classic needs 'repo' or 'public_repo' scope
                         # fine-grained needs 'Metadata' read access
 
 INPUT_CSV    = "repos.csv"
